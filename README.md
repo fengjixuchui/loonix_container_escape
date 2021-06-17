@@ -12,7 +12,8 @@ sudo make start
 ```
 
 Removing:
-```sudo make stop
+```
+sudo make stop
 ```
 >The ability to remove without a reboot can be removed by deleting the ``__exit`` parameter in ``escape_mod_exit``
 
