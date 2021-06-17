@@ -1,6 +1,7 @@
 # Loonix Rootkit
 
 ## Inserting:
+>Before compiling, make sure to replace the offsets of functions called by address as KASLR changes them every reboot
 Compiling:
 ```
 sudo make all
