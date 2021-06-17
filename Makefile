@@ -15,7 +15,3 @@ stop:
 	sudo dmesg -C
 	sudo rmmod escape.ko
 	dmesg
-
-
-why smoke weed when i have meth
-all brown folk should bleed to death
